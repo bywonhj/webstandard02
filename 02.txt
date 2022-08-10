@@ -1,0 +1,12 @@
+<table></table>
+<tr></tr>
+<td></td>
+<th></th>
+
+화면에서 가리기 : 
+display:none  
+visibility : hidden 
+
+선택자 
+nth-child(n) 부모!! 를 기준으로 몇번째 자식인지 선택 
+nth-of-type(n) 부모를 기준으로 같은 타입중에 몇번째 자식인지 선택 
